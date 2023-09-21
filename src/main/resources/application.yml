@@ -35,6 +35,6 @@ jwt:
   refreshTokenCookieName: mh-jwt-refresh
   refreshTokenExpirationMs: 1800000
 
-server:
-  servlet:
-    context-path: /api
+# server:
+#   servlet:
+#     context-path: /api
